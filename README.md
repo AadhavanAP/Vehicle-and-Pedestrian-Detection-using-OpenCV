@@ -71,7 +71,7 @@ Vechicle_Pedestrian_Detection/
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/AadhavanAP/Vechicle_Pedestrian_Detection.git
+git clone https://github.com/AadhavanAP/Vehicle-and-Pedestrian-Detection-using-OpenCV
 cd Vechicle_Pedestrian_Detection
 ```
 
